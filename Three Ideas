@@ -1,0 +1,36 @@
+Three Capstone Ideas
+
+Project Idea 1: Trick-or-Treating Neighborhood App
+Description:
+This app will track houses that are giving out candy during Halloween, helping trick-or-treaters plan their routes efficiently.
+ It will feature an interactive map where users can mark and search for houses that are participating, making the Halloween experience more organized and fun. 
+Users can also filter houses by features such as "candy types," "house decorations," or "special events" like haunted houses.
+
+Data:
+The app will collect data from users who can mark houses on the map and submit additional information like candy availability or decorations. 
+The app could also use external APIs like Google Maps for route optimization and location services to track nearby houses.
+
+Project Idea 2: Spooky Game – Bone Collector in the Cemetery
+Description:
+A spooky game where the player needs to gather bones scattered across a haunted cemetery to escape before time runs out.
+ The game will feature eerie graphics, sound effects, and puzzles that players must solve to uncover bones hidden in secret locations. 
+The goal is to gather all the bones and unlock the exit gate to escape the cemetery, avoiding traps and supernatural entities along the way.
+
+Data:
+This game will primarily rely on game logic, with static data for bone locations, puzzles, and obstacles. It could also include external APIs for randomizing puzzles or creating dynamic challenges. 
+The game would use local storage to save player progress and achievements.
+
+Project Idea 3: Ice Cream Truck Request App
+Description:
+An app where users can request ice cream trucks to come to their location. 
+Customers can select the ice cream truck nearest to them, choose their favorite ice creams, and track the truck as it heads their way.
+ The app will feature real-time GPS tracking, order customization, and payment integration, making it easy for ice cream lovers to get their treats delivered directly to them.
+
+Data:
+This app would use real-time GPS tracking data, possibly integrating with Google Maps API to show truck locations and user destinations. 
+User preferences, order history, and payment data would also need to be managed, likely through an internal API for user authentication, payment processing, and order tracking.
+
+My Preferred Project Idea:
+Spooky Game – Bone Collector in the Cemetery
+Out of the three ideas, I am most excited to work on the spooky game. It combines my love for interactive experiences with a touch of mystery and thrill. 
+I look forward to creating engaging puzzles, eerie game environments, and a fun yet challenging storyline.
